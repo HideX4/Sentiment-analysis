@@ -1,7 +1,25 @@
 # Sentiment Analysis App
 
-<!-- TODO: Add my contributions -->
 This project consists of a **Flutter** frontend and a **Flask** backend for sentiment analysis. The backend processes requests and returns sentiment predictions (0=negative, 1=neutral, or 2=positive).
+
+### 🧩 My Contributions
+
+My contributions to this sentiment analysis project included key responsibilities across the data pipeline and parts of the model development process:
+
+- **Data Collection:**  
+  Curated and aggregated a diverse dataset for sentiment classification, ensuring coverage across multiple sentiment classes and domains.
+
+- **Data Cleaning & Preprocessing:**  
+  - Removed noise such as stopwords, special characters, and punctuation.  
+  - Normalized text via lowercasing and lemmatization.  
+  - Handled missing values and performed label encoding for categorical targets.
+
+- **Text Tokenization:**  
+  Tokenized the text data for model compatibility using NLTK.
+
+- **Model Training & Evaluation (Support):**  
+  Collaborated on model selection and tuning. Supported training runs and contributed to evaluating model performance using metrics such as accuracy, precision, recall, and F1-score.
+
 
 ---
 
